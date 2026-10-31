@@ -16,5 +16,5 @@
   <text x="32" y="50" class="prompt">~/nitrodaxs $ whoami</text>
   <text x="32" y="100" class="name">Miroslav</text>
   <text x="32" y="132" class="tag">Building full-stack apps with React and ASP.NET Core, from Bulgaria</text>
-  <g clip-path="url(#frame)"><path class="pulse" d="M0 170 H250 l14 -8 l12 8 h22 l10 14 l18 -74 l20 96 l14 -36 h26 l14 -10 l14 10 H840"/></g>
+  <g clip-path="url(#frame)"><path class="pulse" d="M0 190 H250 l14 -8 l12 8 h22 l10 12 l18 -44 l20 60 l14 -28 h26 l14 -8 l14 8 H840"/></g>
 </svg>

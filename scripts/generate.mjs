@@ -87,7 +87,7 @@ function languagesCard(rows) {
 
 function heroCard() {
   const W = 840, H = 230
-  const pulse = 'M0 170 H250 l14 -8 l12 8 h22 l10 14 l18 -74 l20 96 l14 -36 h26 l14 -10 l14 10 H840'
+  const pulse = 'M0 190 H250 l14 -8 l12 8 h22 l10 12 l18 -44 l20 60 l14 -28 h26 l14 -8 l14 8 H840'
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Miroslav, building full-stack apps with React and ASP.NET Core">
   <defs>
     <linearGradient id="fill" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#10261a"/></linearGradient>
