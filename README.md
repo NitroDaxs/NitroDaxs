@@ -6,32 +6,32 @@ Full-stack developer from Bulgaria, building web apps with React and ASP.NET Cor
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-Typed-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-Backend-blueviolet?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Queries-orange?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-E38C00?style=for-the-badge)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-UI-blue?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-Framework-black?style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-Build-blueviolet?style=for-the-badge)
-![TanStack Query](https://img.shields.io/badge/TanStack-Query-red?style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-teal?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-404040?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge)
 
 **Backend**
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET-Core-purple?style=for-the-badge)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework-Core-purple?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-PHP-red?style=for-the-badge)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge)
 
 **Data and tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
 ## Languages
 
