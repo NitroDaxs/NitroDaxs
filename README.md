@@ -1,21 +1,36 @@
-<p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Miroslav, building full-stack apps with React and ASP.NET Core" />
-</p>
+# Miroslav
 
-<p align="center">
-  <img src="assets/languages.svg" width="100%" alt="Percentage of code in each language across my public repositories" />
-</p>
+Full-stack developer from Bulgaria, building web apps with React and ASP.NET Core.
 
-<p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, C#, PHP, SQL, React, Next.js, Vite, TanStack Query, Tailwind CSS, ASP.NET Core, EF Core, Laravel, PostgreSQL, SQL Server, Docker and Git" />
-</p>
+## Tech stack
 
-## What I'm building
+- **Languages:** TypeScript, JavaScript, C#, PHP, SQL
+- **Frontend:** React, Next.js, Vite, TanStack Query, Tailwind CSS
+- **Backend:** ASP.NET Core, Entity Framework Core, Laravel
+- **Data and tools:** PostgreSQL, SQL Server, Docker, Git
+
+## Languages
+
+Share of code across my public repositories.
+
+<!-- languages:start -->
+
+| Language | Share |
+| --- | --- |
+| C# | 18.6% |
+| JavaScript | 17.9% |
+| PHP | 16.6% |
+| EJS | 14.2% |
+| TypeScript | 14.0% |
+| HTML | 11.3% |
+| Other | 7.4% |
+
+<!-- languages:end -->
+
+## Current project
 
 **FitTrack** is a fitness tracker with an exercise library, workout logging, progress
 charts, fitness calculators and an admin console.
 
-| Part | Built with | Code |
-| --- | --- | --- |
-| Web app | React, TypeScript, TanStack Query, Tailwind CSS | [fittrack-frontend](https://github.com/NitroDaxs/fittrack-frontend) |
-| API | ASP.NET Core, EF Core, PostgreSQL, Onion architecture | [fittrack-be-cs](https://github.com/NitroDaxs/fittrack-be-cs) |
+- [fittrack-frontend](https://github.com/NitroDaxs/fittrack-frontend): React, TypeScript, TanStack Query, Tailwind CSS
+- [fittrack-be-cs](https://github.com/NitroDaxs/fittrack-be-cs): ASP.NET Core, Entity Framework Core, PostgreSQL

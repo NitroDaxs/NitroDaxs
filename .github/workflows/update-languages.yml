@@ -1,4 +1,4 @@
-name: Update profile cards
+name: Update language percentages
 
 on:
   schedule:
@@ -23,5 +23,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets
-          git diff --cached --quiet || (git commit -m "Update profile cards" && git push)
+          git add README.md
+          git diff --cached --quiet || (git commit -m "Update language percentages" && git push)
