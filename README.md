@@ -18,11 +18,11 @@ Share of code across my public repositories.
 | Language | Share |
 | --- | --- |
 | C# | 18.6% |
-| JavaScript | 17.9% |
+| JavaScript | 17.7% |
 | PHP | 16.6% |
 | EJS | 14.2% |
 | TypeScript | 14.0% |
-| HTML | 11.3% |
+| HTML | 11.4% |
 | Other | 7.4% |
 
 <!-- languages:end -->
